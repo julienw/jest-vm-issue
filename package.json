@@ -1,0 +1,16 @@
+{
+  "name": "vm-and-require",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Julien Wajsberg <jwajsberg@mozilla.com>",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
